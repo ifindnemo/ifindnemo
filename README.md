@@ -50,13 +50,20 @@ Here are some ideas to get you started:
 <h3 align="left">🔧 Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/Code-Python-purple?style=flat&logo=python&color=blue)
+![](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
+![](https://img.shields.io/badge/Code-CSS-orange?logo=css3&logoColor=049ce4&color=049ce4)
+<br>
 ![](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat&logo=heroku&logoColor=B78DEF&color=B78DEF)
+<br>
 ![](https://img.shields.io/badge/Database-MongoDB-purple?style=flat&logo=mongodb&color=green)
 ![](https://img.shields.io/badge/Database-SQLite-green?style=flat&logo=sqlite&logoColor=6ac5fe&color=6ac5fe)
+<br>
 ![](https://img.shields.io/badge/Web%20App%20Framework-DJango-green?style=flat&logo=django&logoColor=092e20&color=092e20)
 ![](https://img.shields.io/badge/Web%20App%20Framework-Flask-green?style=flat&logo=flask&logoColor=6ac5fe&color=6ac5fe)
+<br>
 ![](https://img.shields.io/badge/Data%20Processing-Pandas-blue?logo=pandas)
 ![](https://img.shields.io/badge/Data%20Processing-Numpy-blue?logo=numpy)
+<br>
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-TensorFlow-orange?logo=tensorflow)
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-PyTorch-orange?logo=pytorch)
 
