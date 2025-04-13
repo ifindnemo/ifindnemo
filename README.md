@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="center">
 <a href="https://github.com/ifindnemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifindnemo&hide=scss,java,html,tex&theme=tokyonight&show_icons=true&line_height=27&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-ifindnemos-projects.vercel.app/api/top-langs/?username=ifindnemo&hide=scss,java,html,tex&theme=tokyonight&show_icons=true&line_height=27&langs_count=3" />
 </a>
 
 <a href="https://github.com/ifindnemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifindnemo&theme=tokyonight&count_private=true&show_icons=true&line_height=27&include_all_commits=true&rank_icon=github" alt="nemonousagi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-ifindnemos-projects.vercel.app/api?username=ifindnemo&theme=tokyonight&count_private=true&show_icons=true&line_height=27&include_all_commits=true&rank_icon=github" alt="nemonousagi's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ifindnemo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifindnemo&theme=tokyonight&hide_border=false" alt="nemonousagi's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats-ifindnemos-projects.vercel.app?user=ifindnemo&theme=tokyonight&hide_border=false" alt="nemonousagi's GitHub Stats" />
 </a>
 
 <br>
