@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-SQLite-green?style=flat&logo=sqlite&logoColor=6ac5fe&color=6ac5fe)
 ![](https://img.shields.io/badge/Web%20App%20Framework-DJango-green?style=flat&logo=django&logoColor=092e20&color=092e20)
 ![](https://img.shields.io/badge/Web%20App%20Framework-Flask-green?style=flat&logo=flask&logoColor=6ac5fe&color=6ac5fe)
+![](https://img.shields.io/badge/Data%20Processing-Pandas-blue?logo=pandas)
+![](https://img.shields.io/badge/Data%20Processing-Numpy-blue?logo=numpy)
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-TensorFlow-orange?logo=tensorflow)
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-PyTorch-orange?logo=pytorch)
 
