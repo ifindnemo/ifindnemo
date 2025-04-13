@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">ネモ・ノウサギ - ベトナム出身の情熱的なプログラマー</h3>
+<h3 align="center">ネモ・ノウサギ - ベトナム出身の情熱的なプログラマー <img align="center" src="https://github.com/user-attachments/assets/8e7e33fb-4ce4-44fa-9ab8-93fa7ac7bef9" height=40px width=44px/></h3>
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" height=600px width=900px/>
+<img align="center" src="https://github.com/user-attachments/assets/92e94c3f-6a3a-45e4-b937-87ca2299099d"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ifindnemo&color=ff69b4)
@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-SQLite-green?style=flat&logo=sqlite&logoColor=white&color=6ac5fe)
 ![](https://img.shields.io/badge/Framework-DJango-green?style=flat&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/Framework-Flask-green?style=flat&logo=flask&logoColor=white&color=6ac5fe)
+![](https://img.shields.io/badge/ML%2FDL%20Framework-TensorFlow-orange?logo=tensorflow)
+![](https://img.shields.io/badge/ML%2FDL%20Framework-PyTorch-orange?logo=pytorch)
 
 <h3 align="left">Website Development Project</h3>
 <p align="center">
@@ -63,6 +65,17 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nemodev" height=100px width=80px/></a>
+<p align="left"> <a href="https://discord.com/users/nemodev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/toannguyen.8640/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ifindnemo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/nousagi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+
+<p align="center">
+<img align="center" src="https://github.com/user-attachments/assets/bad26b65-4c3a-4886-a023-0ba53eeef4b4"/><br>
+໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑໑
 </p>
+
+
+
