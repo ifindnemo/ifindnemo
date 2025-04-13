@@ -49,19 +49,19 @@ Here are some ideas to get you started:
 
 <h3 align="left">🔧 Languages and Tools:</h3>
 
-![](https://img.shields.io/badge/Code-Python-purple?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat&logo=heroku&logoColor=white&color=B78DEF)
-![](https://img.shields.io/badge/Database-MongoDB-purple?style=flat&logo=mongodb&logoColor=white&color=green)
-![](https://img.shields.io/badge/Database-SQLite-green?style=flat&logo=sqlite&logoColor=white&color=6ac5fe)
-![](https://img.shields.io/badge/Framework-DJango-green?style=flat&logo=django&logoColor=white&color=092e20)
-![](https://img.shields.io/badge/Framework-Flask-green?style=flat&logo=flask&logoColor=white&color=6ac5fe)
+![](https://img.shields.io/badge/Code-Python-purple?style=flat&logo=python&color=blue)
+![](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat&logo=heroku&logoColor=B78DEF&color=B78DEF)
+![](https://img.shields.io/badge/Database-MongoDB-purple?style=flat&logo=mongodb&color=green)
+![](https://img.shields.io/badge/Database-SQLite-green?style=flat&logo=sqlite&logoColor=6ac5fe&color=6ac5fe)
+![](https://img.shields.io/badge/Web%20App%20Framework-DJango-green?style=flat&logo=django&logoColor=092e20&color=092e20)
+![](https://img.shields.io/badge/Web%20App%20Framework-Flask-green?style=flat&logo=flask&logoColor=6ac5fe&color=6ac5fe)
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-TensorFlow-orange?logo=tensorflow)
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-PyTorch-orange?logo=pytorch)
 
 <h3 align="left">Website Development Project</h3>
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
-<h2>Project: Data Storytelling: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
+<h2>Project Data Storytelling 1: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
 </p>
 
 <h3 align="left">Connect with me:</h3>
