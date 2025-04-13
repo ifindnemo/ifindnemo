@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nemodev" height=100px width=80px/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/Code-Python-purple?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat&logo=heroku&logoColor=white&color=B78DEF)
