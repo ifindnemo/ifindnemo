@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, have a nice day ₍^. .^₎⟆
 
 <!--
 **ifindnemo/ifindnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,28 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">ネモ・ノウサギ - ベトナム出身の情熱的なプログラマー</h3>
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" height=600px width=900px/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=ifindnemo&color=ff69b4)
+
 <h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
+<p align="center">
 <a href="https://github.com/ifindnemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifindnemo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifindnemo&hide=scss,java,html,tex&theme=tokyonight&show_icons=true&line_height=27&langs_count=3" />
 </a>
 
 <a href="https://github.com/ifindnemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifindnemo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="nemonousagi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifindnemo&theme=tokyonight&count_private=true&show_icons=true&line_height=27&include_all_commits=true&rank_icon=github" alt="nemonousagi's GitHub Stats" />
 </a>
 
+<a href="https://github.com/ifindnemo">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifindnemo&theme=tokyonight&hide_border=false" alt="nemonousagi's GitHub Stats" />
+</a>
+
+<br>
 <a href="https://github.com/ifindnemo/phat-hien-gian-lan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=phat-hien-gian-lan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=phat-hien-gian-lan&theme=tokyonight&show_owner=true&description_lines_count=2" />
 </a>
 
 <a href="https://github.com/ifindnemo/toolScrapingFB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=toolScrapingFB&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=toolScrapingFB&theme=tokyonight&show_owner=true&description_lines_count=2" />
 </a>
 </p>
 
@@ -49,6 +56,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-DJango-green?style=flat&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/Framework-Flask-green?style=flat&logo=flask&logoColor=white&color=6ac5fe)
 
+<h3 align="left">Website Development Project</h3>
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
 <h2>Project: Data Storytelling: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
