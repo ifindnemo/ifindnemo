@@ -40,16 +40,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
-<h2>Project: Data Storytelling: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nemodev" height=100px width=80px/></a>
-</p>
-
 <h3 align="left">🔧 Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/Code-Python-purple?style=flat&logo=python&logoColor=white&color=blue)
@@ -59,5 +49,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-DJango-green?style=flat&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/Framework-Flask-green?style=flat&logo=flask&logoColor=white&color=6ac5fe)
 
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
+<h2>Project: Data Storytelling: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
+</p>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nemodev" height=100px width=80px/></a>
+</p>
