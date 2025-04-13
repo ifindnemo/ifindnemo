@@ -21,6 +21,23 @@ Here are some ideas to get you started:
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 </p>
 
+<p align="left">
+<a href="https://github.com/ifindnemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifindnemo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/ifindnemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifindnemo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="nemonousagi's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ifindnemo/phat-hien-gian-lan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=phat-hien-gian-lan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ifindnemo/toolScrapingFB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=toolScrapingFB&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
