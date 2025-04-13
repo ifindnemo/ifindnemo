@@ -70,7 +70,10 @@ Here are some ideas to get you started:
 <h3 align="left">Website Development Project</h3>
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
-<h2>Project Data Storytelling 1: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
+<h2>Project Data Storytelling:<br>
+  Ver 1: <a href="https://nemonousagi.pythonanywhere.com" target="_blank">nemonousagi.pythonanywhere.com</a><br>
+  Ver 2 (Final): <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a>
+</h2>
 <h2>Project E-Commerce (Not fully for E-Commerce, I also put something else in there ><): <a href="https://ifindnemo.github.io/yumyum" target="_blank">ifindnemo.github.io/yumyum</a></h2>
 </p>
 
