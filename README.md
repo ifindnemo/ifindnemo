@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/nemodev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nemodev" height="30" width="40" /></a>
+<a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nemodev"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
