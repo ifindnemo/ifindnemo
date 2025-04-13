@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 <p align="center">
-<a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/></a>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 </p>
 
+
 <p align="center">
-<a href="https://discord.gg/nemodev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/></a>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
 <h2>Project: Data Storytelling: <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a></h2>
 </p>
 
