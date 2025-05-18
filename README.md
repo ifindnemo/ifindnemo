@@ -75,6 +75,7 @@ Here are some ideas to get you started:
   Ver 2 (Final): <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a>
 </h2>
 <h2>Project E-Commerce (Not fully for E-Commerce, I also put something else in there ><): <a href="https://ifindnemo.github.io/yumyum" target="_blank">ifindnemo.github.io/yumyum</a></h2>
+<h2>Participated in group UniX. Awarded the Second Prize of Student research conference E-Commerce 2024-2025</h2>
 </p>
 
 <h3 align="left">Connect with me:</h3>
