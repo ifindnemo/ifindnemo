@@ -67,16 +67,59 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-TensorFlow-orange?logo=tensorflow)
 ![](https://img.shields.io/badge/ML%2FDL%20Framework-PyTorch-orange?logo=pytorch)
 
-<h3 align="left">Website Development Project</h3>
-<p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
-<h2>Project Data Storytelling:<br>
-  Ver 1: <a href="https://nemonousagi.pythonanywhere.com" target="_blank">nemonousagi.pythonanywhere.com</a><br>
-  Ver 2 (Final): <a href="https://nemodev.pythonanywhere.com" target="_blank">nemodev.pythonanywhere.com</a>
-</h2>
-<h2>Project E-Commerce (Not fully for E-Commerce, I also put something else in there ><): <a href="https://ifindnemo.github.io/yumyum" target="_blank">ifindnemo.github.io/yumyum</a></h2>
-<h2>Participated in group UniX. Awarded the Second Prize of Student research conference E-Commerce 2024-2025</h2>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="100%" />
+  <h2>🚀 Featured Web Development Projects</h2>
+</div>
+
+---
+
+### 🏆 UniX - Smart Enrollment Assistance
+> **Instructor:** M.S. Tran Van Loc
+> <br>
+> 🥇 **Achievement:** Awarded the **Second Prize** of Student Research Conference E-Commerce 2024-2025.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![RAG](https://img.shields.io/badge/AI-RAG-ff69b4?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat-square)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🔗 Link:** [View Repository](https://github.com/yourusername/unix-repo) *(Thay link repo của bạn vào đây)*
+
+* **Frontend Architecture:** Designed and implemented a responsive architecture, specifically crafting the Home Page, Navigation systems, AI Tutor, and interactive Chatbot Interface for a seamless user experience.
+* **AI Integration:** Collaborated with the backend team to integrate the RAG-based AI model into the web interface, visualizing complex data through user-friendly dashboards.
+* **UI/UX Optimization:** Optimized UI components for cross-device compatibility, enhancing the accessibility of the university admission support system.
+
+---
+
+### 📊 Project Django - Data Storytelling
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**🔗 Live Demo:** [nemodev.pythonanywhere.com](https://nemodev.pythonanywhere.com)
+
+* **Full-stack Architecture:** Architected a web application that transforms raw server-side data into interactive visual insights using Django and D3.js.
+* **Data Visualization:** Integrated D3.js with Django templates to render dynamic, scalable SVG charts based on real-time dataset updates.
+* **API & Serialization:** Handled data serialization and API endpoints to efficiently pass data from the Python backend to the client-side visualization layer.
+
+---
+
+### 🛒 Project E-Commerce (YumYum)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**🔗 Live Demo:** [ifindnemo.github.io/yumyum](https://ifindnemo.github.io/yumyum)
+
+* **Responsive Design:** Developed a fully responsive landing page for a breakfast business using Bootstrap, ensuring a fluid grid layout across mobile and desktop devices.
+* **Interactive UI:** Designed sections including a categorized Menu, Service Showcase, and Customer Reviews to enhance brand credibility.
+* **Custom Chatbot:** Integrated a custom JavaScript Chatbot to provide instant customer support simulation, improving the overall User Experience (UX).
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://discord.com/users/nemodev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/toannguyen.8640/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ifindnemo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
