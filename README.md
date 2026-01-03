@@ -119,6 +119,26 @@ Here are some ideas to get you started:
 * **AI Integration:** Collaborated with the backend team to integrate the RAG-based AI model into the web interface, visualizing complex data through user-friendly dashboards.
 * **UI/UX Optimization:** Optimized UI components for cross-device compatibility, enhancing the accessibility of the university admission support system.
 
+---
+
+### AICP - AI Crime Prevention
+> **Graduation Thesis** | Instructor: M.S. Tran Van Loc
+> <br>
+> **Status:** Current Main Project
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Link:** [View Repository](#) * **Modern UI/UX:** Developed a "Zero-Friction" security web application using React and Tailwind CSS, featuring a modern dark-mode UI with smooth Framer Motion transitions to enhance user engagement.
+* **Intelligent Chatbot (RAG):** Implemented an AI interface integrating **Groq SDK** and **RAG technology**, optimizing UX with Server-Sent Events (SSE) for real-time "typewriter" response streaming.
+* **Real-time Visualization:** Engineered interactive dashboards visualizing Real-time Cyber Threat Maps (via Kaspersky) and a searchable CVE Database table with pagination and filtering logic.
+* **Security Tools:** Constructed intuitive result interfaces for the Link Verifier and Image Scanner, effectively visualizing complex JSON analysis data into user-friendly warnings.
+* **Gamified Education:** Built a "Security Awareness Test" module, applying the Fisher-Yates shuffle algorithm for randomized questions and instant validation.
+* **Future Roadmap:** Plans to develop a dedicated Mobile Application featuring real-time call screening to instantly detect and alert users of potential voice-based scams (vishing).
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
