@@ -32,19 +32,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ifindnemo">
   <img align="center" src="https://github-readme-stats-ifindnemos-projects.vercel.app/api?username=ifindnemo&theme=tokyonight&count_private=true&show_icons=true&line_height=27&include_all_commits=true&rank_icon=github" alt="nemonousagi's GitHub Stats" />
 </a>
-
-<a href="https://github.com/ifindnemo">
-  <img align="center" src="https://github-readme-streak-stats-ifindnemos-projects.vercel.app?user=ifindnemo&theme=tokyonight&hide_border=false" alt="nemonousagi's GitHub Stats" />
-</a>
-
-<br>
-<a href="https://github.com/ifindnemo/phat-hien-gian-lan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=phat-hien-gian-lan&theme=tokyonight&show_owner=true&description_lines_count=2" />
-</a>
-
-<a href="https://github.com/ifindnemo/toolScrapingFB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifindnemo&repo=toolScrapingFB&theme=tokyonight&show_owner=true&description_lines_count=2" />
-</a>
 </p>
 
 <h3 align="left">🔧 Languages and Tools:</h3>
