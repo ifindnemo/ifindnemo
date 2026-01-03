@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="100%" />
-  <h2>🚀 Featured Web Development Projects</h2>
+  <h2>Featured Web Development Projects</h2>
 </div>
 
 ---
 
-### 📊 Project Django - Data Storytelling
+### Project Django - Data Storytelling
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛒 Project E-Commerce (YumYum)
+### Project E-Commerce (YumYum)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 UniX - Smart Enrollment Assistance
+### UniX - Smart Enrollment Assistance
 > **Instructor:** M.S. Tran Van Loc
 > <br>
 > 🥇 **Achievement:** Awarded the **Second Prize** of Student Research Conference E-Commerce 2024-2025.
