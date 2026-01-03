@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
 ---
 
-### AICP - AI Crime Prevention
+### AICP - AI Crime Prevention Platform
 > **Graduation Thesis** | Instructor: M.S. Tran Van Loc
 > <br>
 > **Status:** Current Main Project
@@ -132,7 +132,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Link:** [View Repository](#) * **Modern UI/UX:** Developed a "Zero-Friction" security web application using React and Tailwind CSS, featuring a modern dark-mode UI with smooth Framer Motion transitions to enhance user engagement.
+**Link:** [View Repository](#) 
+* **Modern UI/UX:** Developed a "Zero-Friction" security web application using React and Tailwind CSS, featuring a modern dark-mode UI with smooth Framer Motion transitions to enhance user engagement.
 * **Intelligent Chatbot (RAG):** Implemented an AI interface integrating **Groq SDK** and **RAG technology**, optimizing UX with Server-Sent Events (SSE) for real-time "typewriter" response streaming.
 * **Real-time Visualization:** Engineered interactive dashboards visualizing Real-time Cyber Threat Maps (via Kaspersky) and a searchable CVE Database table with pagination and filtering logic.
 * **Security Tools:** Constructed intuitive result interfaces for the Link Verifier and Image Scanner, effectively visualizing complex JSON analysis data into user-friendly warnings.
